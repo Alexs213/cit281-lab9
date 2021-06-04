@@ -10,4 +10,3 @@ Part 3: Work through course
 
 Part 4: Download completed course repo as deliverable
 
-![lab9](lab9.png)
