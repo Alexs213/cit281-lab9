@@ -1,6 +1,6 @@
 ## Welcome to Lab9
 
-This week we learned how to create a release workflow on GitHub.
+This week we learned how to create a release workflow on GitHub and how to nagivate through GitHub
 
 Lab goals and outcomes:
 
@@ -12,4 +12,3 @@ Part 3: Work through course
 
 Part 4: Download completed course repo as deliverable
 
-![lab9](lab9.png)
